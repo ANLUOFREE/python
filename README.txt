@@ -1,1 +1,2 @@
-这是一个储存python代码的仓库
+this is a python
+byebye
